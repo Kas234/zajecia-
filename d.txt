@@ -1,1 +1,2 @@
 nowy plik z naszego repo
+budujemy konflikty
